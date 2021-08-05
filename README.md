@@ -58,8 +58,5 @@
     -Location Sharing.
     -Audio Sharing.
 </pre>
-<h2>
-    <strong>IMPORTANT: </strong>
-    Get Started with Social chat in ionic 5
-</h2>
+
 
