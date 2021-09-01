@@ -9,6 +9,8 @@
     fully native code.
 </p>
 <hr>
+<img src="src/updated.png" alt="Update">
+<hr>
 <img src="src/Feature.png" alt="Features List Images">
 <hr>
 <img src="src/DesignMobile.png" alt="Features List Images">
@@ -36,7 +38,11 @@
     <li>Call Logs.</li>
     <li>Share and Kind of Document(Video and Image).</li>
     <li>Share text message.</li>
+    <li>Unread count message.</li>
+    <li>Messaging seen unseen.</li>
+    <li>Replaying messaging.</li>
     <li>Share Emoji, Sticker and Gifts.</li>
+    <li>Share Video.</li>
     <li>Share Stories (Post Stories).</li>
     <li>Change Email.</li>
     <li>Change Password.</li>
@@ -47,16 +53,29 @@
     <li>E.T.C</li>
 </ol>
 <h2>
-    Next Update Version Date
+    Updated version - 0.1.2
 </h2>
-
 <pre>
-    -Fix bug.
+    -Fix bugs.
     -Imporve the performance.
     -Update Stoires Post.
-    -update Facebook.
-    -Location Sharing.
+    -Seen Unseen.
     -Audio Sharing.
+    -Share Video.
+    -Replaying messaging.
+    -Unread count message.
 </pre>
+<h2>
+    Next Updating version -0.1.3 Septempber 20th
+</h2>
+<pre>
+    -Fix bugs.
+    -Imporve the performance.
+    -Refactoring.
+    -Update Stoires Post.
+    -Facebook Update.
+    -ChatScreen Update.
+</pre>
+<p>Thanks you?</p>
 
 
